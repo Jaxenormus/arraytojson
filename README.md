@@ -1,8 +1,10 @@
 # ArrayToJSON
 
+![license](https://img.shields.io/github/license/calebdelbridge/arraytojson?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/CalebDelbridge/arraytojson?style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/CalebDelbridge/arraytojson?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/CalebDelbridge/arraytojson?style=for-the-badge)
+
 #### Description of project
 
-ArrayToJSON is a CLI that takes an array of objects and converts it into multiple JSON files with the data of the individual object.
+ArrayToJSON is a CLI that takes an array of objects in a JSON file and converts it into multiple JSON files with the data of the individual object.
 
 #### What problem does this solve
 
