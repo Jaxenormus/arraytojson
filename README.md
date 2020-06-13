@@ -1,6 +1,6 @@
 # ArrayToJSON
 
-![license](https://img.shields.io/github/license/calebdelbridge/arraytojson?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/CalebDelbridge/arraytojson?style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/CalebDelbridge/arraytojson?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/CalebDelbridge/arraytojson?style=for-the-badge)
+![license](https://img.shields.io/github/license/calebdelbridge/arraytojson?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/calebdelbridge/arraytojson?style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/calebdelbridge/arraytojson?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/calebdelbridge/arraytojson?style=for-the-badge)
 
 #### Description of project
 
