@@ -1,6 +1,7 @@
 # ArrayToJSON
 
 ![license](https://img.shields.io/github/license/calebdelbridge/arraytojson?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/calebdelbridge/arraytojson?style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/calebdelbridge/arraytojson?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/calebdelbridge/arraytojson?style=for-the-badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCalebDelbridge%2Farraytojson.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCalebDelbridge%2Farraytojson?ref=badge_shield)
 
 #### Description of project
 
@@ -27,3 +28,7 @@ This project can be used by almost with basic javascript programming skills.
 #### Picture of Interface
 
 ![example image](https://i.imgur.com/ZeuZMeR.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCalebDelbridge%2Farraytojson.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCalebDelbridge%2Farraytojson?ref=badge_large)
